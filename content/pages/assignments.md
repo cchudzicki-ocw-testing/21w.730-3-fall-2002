@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions and guidelines for the course writing
+  assignments.
 learning_resource_types: []
 ocw_type: ''
 title: Assignments

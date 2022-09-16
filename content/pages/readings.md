@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the course readings. Links are provided
+  to online versions where available.
 learning_resource_types: []
 ocw_type: ''
 title: Readings

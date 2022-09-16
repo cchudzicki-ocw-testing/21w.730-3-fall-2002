@@ -3,10 +3,11 @@ content_type: resource
 description: Research guidelines for essay assignments. Includes the rational for
   using sources in humanities papers, techniques for incorporating research language
   into your paper, and the mechanics of the MLA style citations.
-file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/21w-730-3-consumer-culture-fall-2002/8ae7b82875581a2ddccbf41d488f54bb_researchguidelns.pdf
+file: /media/courses/21w-730-3-consumer-culture-fall-2002/8ae7b82875581a2ddccbf41d488f54bb_researchguidelns.pdf
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,3 +15,4 @@ resourcetype: Document
 title: 'MLA Style for Essays III and IV '
 uid: 8ae7b828-7558-1a2d-dccb-f41d488f54bb
 ---
+Research guidelines for essay assignments. Includes the rational for using sources in humanities papers, techniques for incorporating research language into your paper, and the mechanics of the MLA style citations.
